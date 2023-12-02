@@ -25,7 +25,7 @@ Este repositório é destinado à disciplina de projeto integrador I do curso de
 6. Utilização da Plataforma Letras
    * Extração específica das letras por meio da plataforma Letras para enriquecer o dataset.
 ## Informações sobre os arquivos deste repositório
-1. **Pasta Datasets**
+1. **Pasta Datasets** /
 O dataset em questão trata-se de um conjunto de músicas brasileiras do estilo rock/indie/pop, algumas lançadas antes dos anos 2000 e outras lançados depois dos anos 2000. Aqui estão algumas informações:
 * Arquivo BD_bandas: Dataset principal com 330 músicas e contendo as colunas: músicas, ano, albuns e bandas.
 * Arquivo lyrics_data: Possui todas as letras das músicas.
