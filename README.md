@@ -46,6 +46,9 @@ O dataset em questão trata-se de um conjunto de músicas brasileiras do estilo 
 ## Análises
 1. **Proporção de Músicas por Bandas**
    ![Figure_1](https://github.com/Sheldaa/Projeto-Integrador-I/assets/128556185/f8de284c-099a-4882-b746-d76402737c27)
+2. **TOP 10 Palavras**
+   ![Figure_2](https://github.com/Sheldaa/Projeto-Integrador-I/assets/128556185/fcd6e162-67ba-45bd-bb89-4f110f5fe153)
+
 
 ## Próximos passos
 Este conjunto de dados montado servirá como base para análises mais aprofundadas no reconhecimento de emoções nas letras de músicas. Ao decorrer dos próximos trabalhos serão implementadas técnicas de processamento de linguagem natural para alcançar os objetivos finais do projeto.
