@@ -43,6 +43,10 @@ O dataset em questão trata-se de um conjunto de músicas brasileiras do estilo 
     * aplicando_token.py: arquivo com o código em que foi feita a aplicação de token.
     * contagem.py: arquivo com o código utilizado para gerar o ranking de palavras.
     * bag_words.py: arquivo com o código utilizado para gerar a coleção de palavras.
+## Análises
+1. **Proporção de Músicas por Bandas**
+   ![Figure_1](https://github.com/Sheldaa/Projeto-Integrador-I/assets/128556185/f8de284c-099a-4882-b746-d76402737c27)
+
 ## Próximos passos
 Este conjunto de dados montado servirá como base para análises mais aprofundadas no reconhecimento de emoções nas letras de músicas. Ao decorrer dos próximos trabalhos serão implementadas técnicas de processamento de linguagem natural para alcançar os objetivos finais do projeto.
 
