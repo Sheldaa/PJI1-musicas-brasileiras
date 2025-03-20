@@ -1,4 +1,4 @@
-# Projeto Integrador I
+# Projeto Integrador I - Músicas brasileiras
 Este repositório é destinado à disciplina de projeto integrador I do curso de ciência de dados. Esta primeira parte da disciplina tem como objetivo a montagem de um dataset que possa ser manipulado e que será fundamental para futuros trabalhos de análise com foco no reconhecimento de emoções com base em letras de músicas. 
 ## Objetivos
 * Compreensão das emoções base e das ferramentas disponíveis.
